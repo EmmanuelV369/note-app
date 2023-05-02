@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+  margin: auto;
+
+}
+
+
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  border: solid black;
+  margin: .5em;
+  padding: .25em;
+
+}
+
+button {
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
+
+div {
+  border: none;
+  margin: .5em;
+  padding: .25em;
+box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.50);
+height: 100vh;
+size: 5px;
+
+
+
+}
+
+input {
+
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 14px;
+size: 5px;
+
+}
